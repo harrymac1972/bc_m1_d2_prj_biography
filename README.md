@@ -2,7 +2,7 @@
 
 Work with a partner to implement the following user story:
 
-* As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
+*   As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
 
 ## Acceptance Criteria
 
